@@ -1,0 +1,16 @@
+===================================
+ROADMAP
+===================================
+1. Setting up project
+2. Setting up database
+3. How to read file from PHP
+4. How to write file from PHP
+5. Alert in JavaScript
+6. Templating
+6A. A bit of JavaScript
+7. Connect to Controller
+8. Insert to database
+9. Delete 
+10. Search
+11. Update
+12. Done
